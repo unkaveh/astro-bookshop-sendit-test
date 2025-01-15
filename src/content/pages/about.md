@@ -25,6 +25,9 @@ content_blocks:
       - image: /images/about/aboutfeature-four.jpg
         image_alt: Staff group photo
         placement: back_top_left
+      - image: /uploads/screenshot-2025-01-10-at-12-19-58-pm.png
+        image_alt: People working
+        placement: front_bottom
     button:
       text: Try This Free
       link: /signup
