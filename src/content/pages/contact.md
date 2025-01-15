@@ -1,4 +1,5 @@
 ---
+_schema: default
 title: Contact
 seo:
   page_description:
@@ -10,7 +11,7 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: contact/hero
-    title: Let's talk.
+    title: Let's talk about how cool you are.
     description: Have a question or suggestion? Feel free to drop us a message!
   - _bookshop_name: contact/form
     address:
@@ -22,7 +23,7 @@ content_blocks:
       image: /images/contact/call-add.svg
       image_alt: call-add
     email:
-      heading: Email
+      heading: Emaill
       email: info@example.com
       image: /images/contact/directbox-send.svg
       image_alt: send-box
